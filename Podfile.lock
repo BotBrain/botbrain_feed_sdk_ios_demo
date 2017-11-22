@@ -14,29 +14,24 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - botbrain_feed_sdk_ios (1.3.0):
-    - AFNetworking (>= 3.0.0)
-    - botbrain_feed_sdk_ios/GDTLibrary (= 1.3.0)
-    - BotFireData (>= 0.2.1)
-    - SDWebImage (>= 3.7.0)
-  - botbrain_feed_sdk_ios/GDTLibrary (1.3.0):
+  - botbrain_feed_sdk_ios_lite (1.3.0):
     - AFNetworking (>= 3.0.0)
     - BotFireData (>= 0.2.1)
     - SDWebImage (>= 3.7.0)
   - BotFireData (0.2.1)
-  - SDWebImage (4.2.1):
-    - SDWebImage/Core (= 4.2.1)
-  - SDWebImage/Core (4.2.1)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
 
 DEPENDENCIES:
-  - botbrain_feed_sdk_ios
+  - botbrain_feed_sdk_ios_lite
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  botbrain_feed_sdk_ios: 8c1d21233d0bd87a14bdbef47f840a5511cc502b
+  botbrain_feed_sdk_ios_lite: c7dcea88acae2375307c2c0e56eff432cbe4dca7
   BotFireData: 8bf550d9a283c16887970ca5763c66607dfc9c76
-  SDWebImage: 1fa4c9edf525b744f002db89f3f5a38b3cd4c541
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
 
-PODFILE CHECKSUM: 8786d2476a68dbdbb10c41596fac612133c4ba4c
+PODFILE CHECKSUM: d328d363d84831a3a7618327a2e3d0ffe3f643ee
 
 COCOAPODS: 1.3.1

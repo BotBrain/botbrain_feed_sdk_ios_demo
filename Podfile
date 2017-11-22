@@ -8,6 +8,6 @@ target 'botbrain_feed_sdk_ios_demo' do
   inhibit_all_warnings!
   # Pods for botbrain_feed_sdk_ios_demo
   # 二选一
-  pod 'botbrain_feed_sdk_ios'
-  # pod 'botbrain_feed_sdk_ios_lite'
+  pod 'botbrain_feed_sdk_ios_lite'
+#  pod 'botbrain_feed_sdk_ios'
 end

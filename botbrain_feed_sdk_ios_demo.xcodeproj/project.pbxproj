@@ -187,7 +187,7 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-botbrain_feed_sdk_ios_demo/Pods-botbrain_feed_sdk_ios_demo-resources.sh",
-				"${PODS_ROOT}/botbrain_feed_sdk_ios/BotBrainFeed/Assets/BotBrainSource.bundle",
+				"${PODS_ROOT}/botbrain_feed_sdk_ios_lite/BotBrainFeedLite/Assets/BotBrainSource.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
